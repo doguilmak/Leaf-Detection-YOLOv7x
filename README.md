@@ -55,6 +55,8 @@ The dataset used in this project is the Crop and Weed Detection Data with Boundi
 - `leaf_detection_YOLOv7x.py`: Project codes with python extension.
 -   `README.md`: You are currently reading this file, which provides an overview of the project.
 
+<br>
+
 # Contact Me
 
 <p>If you have something to say to me please contact me:</p>  
