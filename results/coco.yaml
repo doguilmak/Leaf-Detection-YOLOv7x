@@ -1,0 +1,10 @@
+# COCO 2017 dataset http://cocodataset.org
+
+train: ../agri_data/data/train/images
+val: ../agri_data/data/val/images
+
+# number of classes
+nc: 2
+
+# class names
+names: ['crop', 'weed']
