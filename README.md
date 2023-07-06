@@ -44,7 +44,7 @@ Our ultimate goal is to empower farmers, researchers, and agricultural professio
 
 ## Dataset
 
-The dataset used in this project is the Crop and Weed Detection Data with Bounding Boxes from [Kaggle](https://www.kaggle.com/datasets/ravirajsinh45/crop-and-weed-detection-data-with-bounding-boxes), which can be accessed here.
+The dataset used in this project is the Crop and Weed Detection Data with Bounding Boxes from Kaggle, which can be accessed [here](https://www.kaggle.com/datasets/ravirajsinh45/crop-and-weed-detection-data-with-bounding-boxes).
 
 <br>
 
